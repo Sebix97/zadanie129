@@ -1,2 +1,2 @@
 osoba1 : SL
-osoba2 : Szymon Ochocki
+osoba2 : Weronika Chałas
